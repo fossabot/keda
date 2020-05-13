@@ -4,6 +4,7 @@
 <a href="https://github.com/kedacore/keda/actions"><img src="https://github.com/kedacore/keda/workflows/master%20build/badge.svg" alt="master build"></a>
 <a href="https://github.com/kedacore/keda/actions"><img src="https://github.com/kedacore/keda/workflows/nightly%20e2e%20test/badge.svg" alt="nightly e2e"></a>
 <a href="https://bestpractices.coreinfrastructure.org/projects/3791"><img src="https://bestpractices.coreinfrastructure.org/projects/3791/badge"></a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fidvoretskyi%2Fkeda?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fidvoretskyi%2Fkeda.svg?type=shield"/></a>
 <a href="https://twitter.com/kedaorg"><img src="https://img.shields.io/twitter/follow/kedaorg?style=social" alt="Twitter"></a></p>
 
 KEDA allows for fine grained autoscaling (including to/from zero) for event driven Kubernetes workloads. KEDA serves 
@@ -184,3 +185,7 @@ Find `--v=0` argument in Operator Deployment section in `deploy/22-metrics-deplo
 Allowed values are `"0"` for info, `"4"` for debug, or an integer value greater than `0`, specified as string
 
 Default value: `"0"`
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fidvoretskyi%2Fkeda.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fidvoretskyi%2Fkeda?ref=badge_large)
